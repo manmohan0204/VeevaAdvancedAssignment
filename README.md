@@ -22,4 +22,5 @@ This framework is a Multi Module Maven project with 4 modules.
 # Run
 -	Test cases are parametrized to support multiple browser (Chrome, Firefox etc..) and run in multiple threads using maven commands
 # Report
-- Once execution id completed customized extent report should be generated.
+- Once execution is completed customized extent report should be generated under target folder and all screenshot and attached file are also located in target folder
+- As target folder will get deleted in each run in order to maintain clean and lightweight size framework.
