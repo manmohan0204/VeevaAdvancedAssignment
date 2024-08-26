@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Veeva Assignment" parallel="tests" thread-count="3">
+
+ <suite-files>
+       <suite-file path="core-product-tests/CoreProductRunnerFile.xml"/>
+       <suite-file path="derived-product2-tests/DerivedProduct2RunnerFile.xml"/>
+ </suite-files>
+</suite> <!-- Suite -->
+
+

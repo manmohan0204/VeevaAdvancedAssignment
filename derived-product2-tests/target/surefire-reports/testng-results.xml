@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Driver Activated... Browser Opened :::: firefox]]>
+    </line>
+    <line>
+      <![CDATA[Test Case for 'derivedProduct2TestCase'  - Started ------]]>
+    </line>
+    <line>
+      <![CDATA[Printing all Link]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Writing to File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Reading of File Started.....]]>
+    </line>
+    <line>
+      <![CDATA[Test Case Passed as no Duplicate Link Present,No need to report]]>
+    </line>
+    <line>
+      <![CDATA[Test Case for 'derivedProduct2TestCase'  - END ------]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-08-26T15:57:33 IST" name="Suite" finished-at="2024-08-26T15:58:26 IST" duration-ms="53175">
+    <groups>
+    </groups>
+    <test started-at="2024-08-26T15:57:33 IST" name="Derived Product2 Test Case in Firefox" finished-at="2024-08-26T15:58:26 IST" duration-ms="53175">
+      <class name="DP2_TestCases.DerivedProduct2TestCase">
+        <test-method is-config="true" signature="setUpTest(java.lang.String)[pri:0, instance:DP2_TestCases.DerivedProduct2TestCase@35d019a3]" started-at="2024-08-26T15:57:33 IST" name="setUpTest" finished-at="2024-08-26T15:57:41 IST" duration-ms="8394" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Driver Activated... Browser Opened :::: firefox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method is-config="true" signature="objectCreation()[pri:0, instance:DP2_TestCases.DerivedProduct2TestCase@35d019a3]" started-at="2024-08-26T15:57:41 IST" name="objectCreation" finished-at="2024-08-26T15:57:54 IST" duration-ms="12290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- objectCreation -->
+        <test-method signature="derivedProduct2TestCase()[pri:0, instance:DP2_TestCases.DerivedProduct2TestCase@35d019a3]" started-at="2024-08-26T15:57:54 IST" name="derivedProduct2TestCase" finished-at="2024-08-26T15:58:24 IST" duration-ms="30745" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case for 'derivedProduct2TestCase'  - Started ------]]>
+            </line>
+            <line>
+              <![CDATA[Printing all Link]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Writing to File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Reading of File Started.....]]>
+            </line>
+            <line>
+              <![CDATA[Test Case Passed as no Duplicate Link Present,No need to report]]>
+            </line>
+            <line>
+              <![CDATA[Test Case for 'derivedProduct2TestCase'  - END ------]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- derivedProduct2TestCase -->
+        <test-method is-config="true" signature="tearDown(java.lang.String)[pri:0, instance:DP2_TestCases.DerivedProduct2TestCase@35d019a3]" started-at="2024-08-26T15:58:25 IST" name="tearDown" finished-at="2024-08-26T15:58:26 IST" duration-ms="1662" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- DP2_TestCases.DerivedProduct2TestCase -->
+    </test> <!-- Derived Product2 Test Case in Firefox -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,5 @@
+# Created at 2024-08-26T15:57:32.314
+Boot Manifest-JAR contains absolute paths in classpath 'D:\intelliJWorkspace\veeva_Assignment\derived-product2-tests\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+

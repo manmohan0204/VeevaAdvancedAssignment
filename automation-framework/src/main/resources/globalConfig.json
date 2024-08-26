@@ -1,0 +1,10 @@
+{
+  "browser" : "chrome",
+  "timeOut" : "10",
+  "pageLoadTimeOut" : "30",
+  "windowWidth" : "1920",
+  "windowHeight": "1080",
+  "reportName": "Veeva Web Automation Report",
+  "reportDocumentTile": "Veeva Web Automation Report",
+  "testerName" :"Manmohan Dash"
+}
